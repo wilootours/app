@@ -231,7 +231,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-bg-new.webp);
+    background-image: url(../images/new-comprerssed/banner-bg-new-Copy.webp);
     height: auto;
     background-size: 100%;
     padding: 0px 0px 20px 0px;
@@ -544,7 +544,7 @@ button {
 .blog_section {
     width: 100%;
     float: left;
-    background-image: url(../images/blog-bg.webp);
+    background-image: url(../images/new-comprerssed/blog-bg-Copy.webp);
     height: auto;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -896,7 +896,7 @@ button {
 .footer_section {
     width: 100%;
     float: left;
-    background-image: url(../images/footer-bg.webp);
+    background-image: url(../images/new-comprerssed/footer-bg.webp);
     height: auto;
     padding-top: 250px;
     background-size: 100% 100%;
