@@ -177,6 +177,30 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.hero-header-bike{
+    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/wiloo-bike-car-rent.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-header-auto{
+    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/auto-service.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-header-bus{
+    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/car-bus-texi.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-header-transport{
+    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/transport.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .breadcrumb-item + .breadcrumb-item::before {
     color: rgba(255, 255, 255, .5);
