@@ -347,7 +347,36 @@
     background: linear-gradient(to left, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%);
     z-index: 1;
 }
+.container-terms {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
 
+.container-terms h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.terms-wrapper {
+    background-color: #eee;
+    padding: 20px;
+    border: 1px solid #ccc;
+    height: 500px;
+}
+
+.terms-content {
+    height: 400px;
+    overflow-y: auto;
+}
+
+/* .accept-btn {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+} */
 @media (min-width: 768px) {
     .testimonial-carousel::before,
     .testimonial-carousel::after {
